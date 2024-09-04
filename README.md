@@ -6,7 +6,9 @@
 
 🌟 Connect with Me
 LinkedIn: [linkedin.com/ibnuzakial](https://www.linkedin.com/in/ibnuzakial/)
+
 Email: [zakiibnu723@gmail.com](mailto:zakiibnu723@gmail.com?)
+
 Portfolio: [ibnuzakial.vercel.app](https://ibnuzakial.vercel.app/)
 
 ⚙️ Tech Stack
