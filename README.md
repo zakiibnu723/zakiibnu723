@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Ibnu Zaki Alhawari
 
-<!--
-**zakiibnu723/zakiibnu723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I’m Front-end Developer
+- Currently Learning Back-end development
+- Open for any Intership program
 
-Here are some ideas to get you started:
+🌟 Connect with Me
+LinkedIn: [linkedin.com/ibnuzakial](https://www.linkedin.com/in/ibnuzakial/)
+Email: [zakiibnu723@gmail.com](mailto:zakiibnu723@gmail.com?)
+Portfolio: [ibnuzakial.vercel.app](https://ibnuzakial.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack
+Languages: HTML, CSS, JavaScript, php
+Frameworks/Libraries: React, express, gsap
