@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Ibnu Zaki Alhawari
 
-# I’m Front-end Developer
+### I’m Front-end Developer
 - Currently Learning Back-end development
 - Open for any Intership program
 
