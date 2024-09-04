@@ -4,10 +4,10 @@
 - Currently Learning Back-end development
 - Open for any Intership program
 
-🌟 Connect with Me
-LinkedIn: [linkedin.com/ibnuzakial](https://www.linkedin.com/in/ibnuzakial/)<br>
-Email: [zakiibnu723@gmail.com](mailto:zakiibnu723@gmail.com?)<br>
-Portfolio: [ibnuzakial.vercel.app](https://ibnuzakial.vercel.app/)<br>
+🌟 Connect with Me <br>
+LinkedIn:  [linkedin.com/ibnuzakial](https://www.linkedin.com/in/ibnuzakial/)<br>
+Email:  [zakiibnu723@gmail.com](mailto:zakiibnu723@gmail.com?)<br>
+Portfolio:  [ibnuzakial.vercel.app](https://ibnuzakial.vercel.app/)<br>
 
 ⚙️ Tech Stack
 Languages: HTML, CSS, JavaScript, php
