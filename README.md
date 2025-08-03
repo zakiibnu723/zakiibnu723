@@ -1,14 +1,33 @@
-## Hi there 👋 I am Ibnu Zaki Alhawari
+## 👋 Hi, I’m Ibnu Zaki Alhawari
 
-### I’m Front-end Developer
-- Currently Learning Back-end development
-- Open for any Intership program
+I’m a web developer with a passion for building smart, useful, and user-focused digital experiences. I enjoy working across the stack — from crafting frontend interfaces to designing backend APIs and exploring how AI can bring more value to everyday systems.
 
-🌟 Connect with Me <br>
-LinkedIn:  [linkedin.com/ibnuzakial](https://www.linkedin.com/in/ibnuzakial/)<br>
-Email:  [zakiibnu723@gmail.com](mailto:zakiibnu723@gmail.com?)<br>
-Portfolio:  [ibnuzakial.vercel.app](https://ibnuzakial.vercel.app/)<br>
+---
 
-⚙️ Tech Stack <br>
-Languages: HTML, CSS, JavaScript, php <br>
-Frameworks/Libraries: React, express, gsap <br>
+### 🛠️ Tech Stack  
+**Languages:** JavaScript (ES6+), Python  
+**Frontend:** React.js, Next.js, GSAP  
+**Backend:** FastAPI, Express.js  
+**Database:** PostgreSQL, MongoDB  
+**AI/ML (Exploring):** scikit-learn, TensorFlow, Pandas, NumPy  
+
+---
+
+### 🌱 Currently Learning  
+- Deepening my backend development skills  
+- Exploring practical applications of machine learning  
+- Designing scalable, real-world web systems
+
+---
+
+### 📫 Let’s Connect  
+🌐 [Portfolio Website](https://ibnuzakial.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/ibnuzakial/)  
+📬 [Email](mailto:zakiibnu723@gmail.com)  
+💻 [GitHub Projects](https://github.com/ibnuzaki)
+
+---
+
+### 🤝 Open To  
+- Internship opportunities  
+- Collaboration on meaningful tech projects  
